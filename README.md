@@ -9,6 +9,7 @@ Curated list of Connectome research based on Electronic Microscopy and Light Mic
     - [Papers](#Papers)
     - [Softwares](#Softwares)
     - [Videos](#Videos)
+    - [Citizen Science](#Citizen-Science)
 
 ## Books
 * [Connectome: How the Brain's Wiring Makes Us Who We Are](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592)
@@ -26,3 +27,7 @@ based on [EM](https://github.com/jingpengwu/awesome-connectome/EM) or [LM](https
 * [Sebastian Seung's TED talk](https://www.ted.com/talks/sebastian_seung)
 * [Jeff Lichtman's lecture](https://www.youtube.com/watch?v=MtTOg0mzRJc)
 * [R. Clay Reid's lecture](https://www.youtube.com/watch?v=Rm1KLXIDS_Y&t=3919s)
+
+## Citizen-Science
+* [EyeWire](www.eyewire.org)
+* [MOZAK](http://www.mozak.science/landing)
