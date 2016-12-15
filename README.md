@@ -5,16 +5,17 @@
 Curated list of Connectome research based on Electronic Microscopy and Light Microscopy.
 
 - [Awesome Connectome](#awesome-connectome)
-    - [Books](#Books)
-    - [Papers](#Papers)
+    - [Theories](#Theories)
+    - [Tools](#Tools)
     - [Softwares](#Softwares)
     - [Videos](#Videos)
     - [Citizen Science](#Citizen-Science)
 
-## Books
+## Theories
 * [Connectome: How the Brain's Wiring Makes Us Who We Are](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592)
+* [Theory of Connectivity: Nature and Nurture of Cell Assemblies and Cognitive Computation](http://journal.frontiersin.org/article/10.3389/fncir.2016.00034/full)
 
-## Papers
+## Tools
 based on [EM](https://github.com/jingpengwu/awesome-connectome/EM) or [LM](https://github.com/jingpengwu/awesome-connectome/LM)
 
 ## Softwares
