@@ -28,6 +28,7 @@ based on [EM](https://github.com/jingpengwu/awesome-connectome/EM) or [LM](https
 * [Sebastian Seung's TED talk](https://www.ted.com/talks/sebastian_seung)
 * [Jeff Lichtman's lecture](https://www.youtube.com/watch?v=MtTOg0mzRJc)
 * [R. Clay Reid's lecture](https://www.youtube.com/watch?v=Rm1KLXIDS_Y&t=3919s)
+* [David Cox's talk in World Economic Forum](https://www.youtube.com/watch?v=6mcYZv1RT54)
 
 ## Citizen-Science
 * [EyeWire](www.eyewire.org)
