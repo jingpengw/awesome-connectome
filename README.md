@@ -15,6 +15,11 @@ Curated list of Connectome research based on Electronic Microscopy and Light Mic
 * [Connectome: How the Brain's Wiring Makes Us Who We Are](https://www.amazon.com/Connectome-How-Brains-Wiring-Makes/dp/0547678592)
 * [Theory of Connectivity: Nature and Nurture of Cell Assemblies and Cognitive Computation](http://journal.frontiersin.org/article/10.3389/fncir.2016.00034/full)
 
+## Group Homepages
+- [Sebastian Seung](http://seunglab.org/)
+- [Jeff Lichtman](http://lichtmanlab.fas.harvard.edu/)
+- [David Cox](http://www.coxlab.org/)
+
 ## Tools
 based on [EM](https://github.com/jingpengwu/awesome-connectome/EM) or [LM](https://github.com/jingpengwu/awesome-connectome/LM)
 
